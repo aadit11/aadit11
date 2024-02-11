@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Check out my blogs at https://medium.com/@aadit.kshirsagar<br>📚 I'm currently learning Django and Langchain</p>
+<p align="left">✨ Check out my blogs at https://medium.com/@aadit.kshirsagar<br>📚 I'm currently learning Django and Langchain<br>✉️ Check out my resume at https://www.linkedin.com/in/aadit-kshirsagar/overlay/1706507887867/single-media-viewer/?profileId=ACoAADZDVQQBEDdxmZKX_E4FCzgT52Ep8EBikjI</p>
 
 ###
 
