@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Passionate about AI, data science, and product management, possessing proficiency in essential professional<br>competencies, fostering innovation and impact in technology and product development.</h2>
+<h2 align="left">Passionate about AI, data science, and product management, possessing proficiency in essential professional competencies, fostering innovation and impact in technology and product development.</h2>
 
 ###
 
