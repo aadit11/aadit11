@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Check out my blogs at https://medium.com/@aadit.kshirsagar<br>📚 I'm currently learning Django and Langchain<br>✉️ Check out my resume at https://www.linkedin.com/in/aadit-kshirsagar/overlay/1706507887867/single-media-viewer/?profileId=ACoAADZDVQQBEDdxmZKX_E4FCzgT52Ep8EBikjI</p>
+<p align="left">✨ Check out my blogs at https://medium.com/@aadit.kshirsagar<br>📚 I'm currently learning and exploring everything GenAI x AI/ML <br>📝 Currently working at Calsoft Inc in their AI/ML team, focusing on Generative AI to enhance data-driven decision-making processes.
+ 
 
 ###
 
