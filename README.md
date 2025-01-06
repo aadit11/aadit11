@@ -1,6 +1,10 @@
-# 💫 About Me:
-👋 Hey there! I'm Aadit
-I am always Exploring, Learning, and Researching the Boundless Possibilities of Generative AI
-You can contact me on: aadit.kshirsagar@gmail.com
+# 💫 About Me
+
+Hi there! 👋 I'm **Aadit**  
+
+🌟 I’m always **Exploring**, **Learning**, and **Researching** the boundless possibilities of **Generative AI**.  
+
+📫 **How to reach me:**  
+[📧 aadit.kshirsagar@gmail.com](mailto:aadit.kshirsagar@gmail.com)  
 
  
