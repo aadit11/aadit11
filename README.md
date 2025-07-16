@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Aadit<br>🔭 I’m always Exploring, Learning, and Researching the Boundless Capabilities of Generative AI.<br>💬 Always happy to connect and chat about Tech, AI or anything curious.<br>📫 How to reach me: https://www.linkedin.com/in/aadit-kshirsagar/
+👋 Hey there! I'm Aadit<br>🔭 I’m always Exploring, Learning, and Researching the Boundless Capabilities of Generative AI.<br>💬 Always happy to connect and chat about Tech, AI or anything curious.<br>📫 How to reach me: aadit.kshirsagar@gmail.com
 
 
 # 💻 Tech Stack:
